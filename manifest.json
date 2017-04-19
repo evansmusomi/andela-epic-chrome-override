@@ -1,0 +1,13 @@
+{
+    "name": "Andela EPIC",
+    "version": "0.1",
+    "manifest_version": 2,
+    "description": "Be EPIC!",
+    "icons": {
+        "128": "icon.png"
+    },
+    "author": "Evans Musomi",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
