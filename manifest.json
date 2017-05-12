@@ -1,8 +1,9 @@
 {
     "name": "Andela EPIC",
-    "version": "0.1",
+    "short_name": "EPIC",
+    "version": "0.2",
     "manifest_version": 2,
-    "description": "Be EPIC!",
+    "description": "Always Be EPIC! Remember the Andela EPIC values every time you open a tab!",
     "icons": {
         "128": "icon.png"
     },
